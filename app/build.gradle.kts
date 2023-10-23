@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.oc_superquiz"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.oc_superquiz"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
